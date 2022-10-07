@@ -1,4 +1,4 @@
-# Web Para instalar programas
+# Web para instalar programas
 
 ### [Instalación LuckyBackups](luckybackup.md)
 [![Screenshot](img/luckybackup.png)](luckybackup.md)
