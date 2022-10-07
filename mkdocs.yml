@@ -10,6 +10,7 @@ nav:
       - Gimp: gimp.md
 plugins: []
 theme:
+  logo: img/favicon.ico
   name: material
   font:
     text: Ubuntu
