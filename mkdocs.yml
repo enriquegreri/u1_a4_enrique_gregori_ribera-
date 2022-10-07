@@ -1,6 +1,3 @@
-hide:
-  - navigation
-  - toc
 site_name: Instalación de programas
 site_url: https://github.com/enriquegreri/u1_a4_enrique_gregori_ribera-/
 docs_dir: 'md'
