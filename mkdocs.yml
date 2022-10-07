@@ -5,6 +5,9 @@ site_dir: 'docs'
 repo_url: https://github.com/enriquegreri/u1_a4_enrique_gregori_ribera-/
 repo_name: enriquegreri/u1_a4_enrique_gregori_ribera-
 edit_uri: 'https://github.com/enriquegreri/u1_a4_enrique_gregori_ribera-/blob/main/md/'
+hide:
+  - navigation
+  - toc
 nav:
     - Web Para instalar programas:
       - Luckybackups: luckybackup.md
