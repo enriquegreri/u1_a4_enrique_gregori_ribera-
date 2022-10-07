@@ -3,6 +3,7 @@
 
 Seguramente que muchos de vosotros echáis en falta tener Gimp en vuestra distribución o sabor oficial así como algunos echarán en falta tener la última versión de este editor de imágenes.
 La última versión de este popular editor de imágenes incorpora bastantes correcciones de bugs, nuevas traducciones y también soporte para nuevos plugins, una faceta suya que mejora notablemente el trabajo de muchos de sus usuarios. Tener la última versión de GIMP es posible gracias a los repositorios externos.
+
 Para poder **instalar la última versión de GIMP en nuestro Ubuntu o derivados**, bien sean sabores oficiales o bien distribuciones que se basan en Ubuntu, necesitamos abrir la terminal y escribir lo siguiente:
 
 `sudo add-apt-repository ppa:otto-kesselgulasch/gimp`
