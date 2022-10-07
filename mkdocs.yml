@@ -1,0 +1,25 @@
+site_name: Instalación de programas
+site_url: https://github.com/enriquegreri/u1_a4_enrique_gregori_ribera-/
+docs_dir: 'md'
+site_dir: 'docs'
+repo_url: https://github.com/enriquegreri/u1_a4_enrique_gregori_ribera-
+repo_name: enriquegreri/u1_a4_enrique_gregori_ribera-
+nav:
+    - Web Para instalar programas: 
+      - Luckybackups: luckybackup.md
+      - Gimp: gimp.md
+plugins: []
+theme:
+  name: material
+  font:
+    text: Ubuntu
+  palette: 
+      scheme: default
+      primary: deep orange
+      accent: black
+  favicon: img/favicon.ico
+  features:
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+
