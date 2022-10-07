@@ -5,7 +5,7 @@ site_dir: 'docs'
 repo_url: https://github.com/enriquegreri/u1_a4_enrique_gregori_ribera-
 repo_name: enriquegreri/u1_a4_enrique_gregori_ribera-
 nav:
-    - Web Para instalar programas: 
+    - Web Para instalar programas:
       - Luckybackups: luckybackup.md
       - Gimp: gimp.md
 plugins: []
