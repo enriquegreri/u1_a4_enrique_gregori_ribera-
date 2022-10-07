@@ -9,6 +9,7 @@ nav:
     - Web Para instalar programas:
       - Luckybackups: luckybackup.md
       - Gimp: gimp.md
+      - Vivaldi: vivaldi.md
 plugins: []
 theme:
   logo: img/favicon.ico

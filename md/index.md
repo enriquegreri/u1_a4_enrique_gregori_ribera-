@@ -11,3 +11,6 @@
 
 ### [Instalación GIMP](gimp.md)
 [![Screenshot](img/gimp.jpg)](gimp.md)
+
+### [Instalación Vivaldi](vivaldi.md)
+[![Screenshot](img/vivaldi.png)](vivaldi.md)
